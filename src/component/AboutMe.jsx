@@ -10,7 +10,7 @@ const AboutMe = () => {
             <p className='text-center py-8 text-gray-800 dark:text-gray-200 font-semibold '>
                 Welcome to my portfolio. I am soyeb a Frontend developer and currently a student. 
                 I have always been passionate about different technologies and constantly trying to improve my skills and knowledge about different technologies in this growing world. 
-                I tries my best to meet my clients expectations by combining my technical skill with creativity, 
+                I try my best to meet my clients expectations by combining my technical skill with creativity, 
                 I am able to think of innovative solutions for problems.
             
                 <span className='text-gray-900 m-8 block text-lg dark:text-gray-200'>Thank you for visiting my portfolio .</span>
